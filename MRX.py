@@ -170,7 +170,7 @@ ______ _   _ _____   _                 _
 	  print("File : index.html?q=" +d3)
 	  print("\033[0m")
 	  quit()
-	  elif choice == 8;
+	  elif choice == 8:
 	  d3 =raw_input('INTER TAGERT IP : ')
 	  port = input("port          :")
 	  os.system("clear")
