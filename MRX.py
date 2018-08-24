@@ -66,7 +66,7 @@ def  select():
 	  os.system("clear")
 	  print("This tool is only available for Linux and similar systems  ")
 	  os.system("git clone https://github.com/younghack3r/Trojan.git")
-	  os.system("cd Crips && sudo bash ./update.sh")
+	  os.system("cd MRX && sudo bash ./update.sh")
 	  os.system("MRX")
     elif choice == 2:
       d3 = raw_input('Enter IP Or Domain : ')
@@ -170,7 +170,7 @@ ______ _   _ _____   _                 _
 	  print("File : index.html?q=" +d3)
 	  print("\033[0m")
 	  quit()
-	elif choice == 8:
+	 else choice == 8:
 	  d3 =raw_input('INTER TAGERT IP : ')
 	  port = input("port          :")
 	  os.system("clear")
