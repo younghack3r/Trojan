@@ -9,9 +9,9 @@ d3=os.system("curl http://ipinfo.io/ip")
 os.system("clear && clear && clear")
 logo = '''\033[0m 
 ___  __ ____  __  __
-|  \/  |  _ \ \ \/ /->mess is for the waek!!!.
-| |\/| | |_) | \  / -love me
-| |  | |  _ <  /  \ 
+|  \/  |  _ \ \ \/ /->Mercy is for the waek!!!.
+| |\/| | |_) | \  / ->℅℅℅℅℅℅℅℅℅℅℅℅℅℅℅℅℅℅℅℅℅℅℅℅℅
+| |  | |  _ <  /  \     !HACKERHUB MEMBERS!
 |_|  |_|_| \_\/_/\_\ \033[0m  \033[91m    \033[1m 
           {+} Coded By Godfrey {+}
           {+} youngh4k4.wordpress.com {+}
