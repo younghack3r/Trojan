@@ -71,10 +71,10 @@ def  select():
     elif choice == 2:
       d3 = raw_input('Enter IP Or Domain : ')
       os.system("clear")
-      os.system(" figlet -p MRX")
-      print("Athor: godfrey mbuva"
-      print("github: github.com/younghack3r")
-      print("THANKS TO ALL HACKERHUB MEMBERS!!!.")
+      os.system("""figlet -p MRX""")
+      print("""Athor: godfrey mbuva""")
+      print("""github: github.com/younghack3r""")
+      print("""THANKS TO ALL HACKERHUB MEMBERS!!!.""")
       os.system("curl https://api.hackertarget.com/mtr/?q=" + d3 )
       print("")
       quit()
