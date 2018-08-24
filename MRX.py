@@ -10,7 +10,7 @@ os.system("clear && clear && clear")
 logo = '''\033[0m 
 ___  __ ____  __  __
 |  \/  |  _ \ \ \/ /->Mercy is for the waek!!!.
-| |\/| | |_) | \  / ->℅℅℅℅℅℅℅℅℅℅℅℅℅℅℅℅℅℅℅℅℅℅℅℅℅
+| |\/| | |_) | \  / ->use it for your own risk!!
 | |  | |  _ <  /  \     !HACKERHUB MEMBERS!
 |_|  |_|_| \_\/_/\_\ \033[0m  \033[91m    \033[1m 
           {+} Coded By Godfrey {+}
