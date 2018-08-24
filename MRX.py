@@ -9,7 +9,7 @@ d3=os.system("curl http://ipinfo.io/ip")
 os.system("clear && clear && clear")
 logo = '''\033[0m 
 ___  __ ____  __  __
-|  \/  |  _ \ \ \/ /
+|  \/  |  _ \ \ \/ / -Mercy is for the weak!!.
 | |\/| | |_) | \  / -love me
 | |  | |  _ <  /  \ 
 |_|  |_|_| \_\/_/\_\ \033[0m  \033[91m    \033[1m 
@@ -32,9 +32,7 @@ menu = '''\033[0m
     {0}--INSTALL & UPDATE
     {99}-Exit    
       '''
-print ("℅℅℅℅℅℅℅℅℅℅℅℅℅℅℅℅℅℅℅℅℅℅℅℅℅℅℅℅℅")
-print ("    Mercy is for the weak!!!.")
-print ("℅℅℅℅℅℅℅℅℅℅℅℅℅℅℅℅℅℅℅℅℅℅℅℅℅℅℅℅℅")
+
 print logo
 print menu
 def quit():
